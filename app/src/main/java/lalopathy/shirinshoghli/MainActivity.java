@@ -2,8 +2,8 @@ package lalopathy.shirinshoghli;
 
 import android.content.DialogInterface;
 import android.os.SystemClock;
-import android.support.v7.app.AlertDialog;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AlertDialog;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -358,7 +358,7 @@ public class MainActivity extends AppCompatActivity {
     public void secondClick(Button btn){
         index=rand.nextInt(u);
         btn.setText(""+array2.get(index));
-        btn.setBackgroundColor(getResources().getColor(R.color.darkBlue));
+        btn.setBackgroundColor(getResources().getColor(R.color.darkBlue, getTheme()));
         array2.remove(index);
         u--;
         m++;
