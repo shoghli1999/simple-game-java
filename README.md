@@ -8,9 +8,8 @@ A fun and challenging number-based game for Android where players test their spe
 
 ## 📱 Screenshots
 
-<!-- Add screenshots here when available -->
-<!-- ![Game Screenshot](screenshots/game_screenshot.png) -->
-<!-- ![Gameplay](screenshots/gameplay.png) -->
+[Game Screenshot](screenshots/game_screenshot.png)
+[Gameplay](screenshots/gameplay.png)
 
 ## ✨ Features
 
