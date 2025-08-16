@@ -8,13 +8,14 @@ A fun and challenging number-based game for Android where players test their spe
 
 ## 📱 Screenshots
 
-| Screenshot | Description |
-|------------|-------------|
-| <img src="screenshots/Screenshot_20250816_215251.png" width="200" alt="Instructions dialog"> | Instructions dialog |
-| <img src="screenshots/Screenshot_20250816_215344.png" width="200" alt="Main game screen"> | Main game screen with 5x5 grid |
-| <img src="screenshots/Screenshot_20250816_215401.png" width="200" alt="Game in progress"> | Game in progress - early stage |
-| <img src="screenshots/Screenshot_20250816_215431.png" width="200" alt="Game in progress"> | Game in progress - more buttons clicked |
-| <img src="screenshots/Screenshot_20250816_215508.png" width="200" alt="Game completion"> | Game completion screen with the result! |
+<div align="center">
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 | Screenshot 5 |
+|--------------|--------------|--------------|--------------|--------------|
+| <img src="screenshots/Screenshot_20250816_215251.png" width="150" alt="Instructions dialog"> | <img src="screenshots/Screenshot_20250816_215344.png" width="150" alt="Main game screen"> | <img src="screenshots/Screenshot_20250816_215401.png" width="150" alt="Game in progress"> | <img src="screenshots/Screenshot_20250816_215431.png" width="150" alt="Game in progress"> | <img src="screenshots/Screenshot_20250816_215508.png" width="150" alt="Game completion"> |
+| **Instructions dialog** | **Main game screen** | **Game in progress** | **More buttons clicked** | **Game completion** |
+
+</div>
 
 ## ✨ Features
 
