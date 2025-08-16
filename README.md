@@ -57,8 +57,8 @@ A fun and challenging number-based game for Android where players test their spe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/shoghli1999/simple-game-java-master.git
-   cd simple-game-java-master
+   git clone https://github.com/shoghli1999/simple-game-java.git
+   cd simple-game-java
    ```
 
 2. **Open in Android Studio**
@@ -77,7 +77,7 @@ A fun and challenging number-based game for Android where players test their spe
 ## 📁 Project Structure
 
 ```
-simple-game-java-master/
+simple-game-java/
 ├── app/
 │   ├── src/main/
 │   │   ├── java/lalopathy/shirinshoghli/
