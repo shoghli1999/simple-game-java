@@ -8,8 +8,13 @@ A fun and challenging number-based game for Android where players test their spe
 
 ## 📱 Screenshots
 
-[Game Screenshot](screenshots/game_screenshot.png)
-[Gameplay](screenshots/gameplay.png)
+| Screenshot | Description |
+|------------|-------------|
+| ![Screenshot 1](screenshots/Screenshot_20250816_215251.png) | Instructions dialog |
+| ![Screenshot 2](screenshots/Screenshot_20250816_215344.png) | Main game screen with 5x5 grid |
+| ![Screenshot 3](screenshots/Screenshot_20250816_215401.png) | Game in progress with some buttons clicked |
+| ![Screenshot 4](screenshots/Screenshot_20250816_215431.png) | Game in progress with some buttons clicked |
+| ![Screenshot 5](screenshots/Screenshot_20250816_215508.png) | Game completion screen with the result! |
 
 ## ✨ Features
 
