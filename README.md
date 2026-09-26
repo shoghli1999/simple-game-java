@@ -10,11 +10,11 @@ A small Android game I wrote in Java with Android Studio. You get a 5 × 5 grid 
 | over 90 s | Tired (خسته ای) |
 
 <p>
-<img src="screenshots/Screenshot_20250816_215251.png" width="160">
-<img src="screenshots/Screenshot_20250816_215344.png" width="160">
-<img src="screenshots/Screenshot_20250816_215401.png" width="160">
-<img src="screenshots/Screenshot_20250816_215431.png" width="160">
-<img src="screenshots/Screenshot_20250816_215508.png" width="160">
+<img src="screenshots/screen-1.png" width="160">
+<img src="screenshots/screen-2.png" width="160">
+<img src="screenshots/screen-3.png" width="160">
+<img src="screenshots/screen-4.png" width="160">
+<img src="screenshots/screen-5.png" width="160">
 </p>
 
 ## Building it
